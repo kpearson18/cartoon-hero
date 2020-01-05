@@ -1,0 +1,89 @@
+body{
+	background-color: cyan;
+	margin: 0;
+	font-family: 'Indie Flower', cursive;
+	font-size: 40px;
+    }
+	
+}
+ h2 {
+	font-family: 'Amatic SC', cursive;
+	font-size: 60px;
+	margin: 40px 0 10px;
+
+}
+header{
+	background-color:#white;
+	text-align: center;
+	padding: 50px;
+	font-size:70px;
+	font-family: 'Amatic SC', cursive;
+
+}
+header h1 {
+	color: #FCFA4F;
+	
+
+
+}
+
+header img{
+	border-radius: 250px;
+	width: 300px;
+	border: 20px solid #FCFA4F;
+
+}
+
+main{
+	background-image: url(img/swirl_pattern.png);
+	background-color:white;
+
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0px 350px 100px;
+}
+
+main img{
+	max-width: 200%;
+
+
+}
+
+{ 
+ }
+ h2{
+ 	font-family: 'Amatic SC', cursive;
+ 	font-size: 60px;
+ 	color:black;
+ }
+ a{
+ 	color: black;
+ }
+ a:hover{
+ 	color:#FCFA4F
+ }
+
+ footer {
+ 	background-color:cyan;
+ 	color:black;
+ 	text-align: center;
+ 	padding: 30px;
+
+ }
+
+ footer a: hover {
+
+ 	opacity: .5;
+ }
+
+ footer p {
+ 	margin:0
+
+ }
+
+ p.caption {
+ 	color:#999999;
+ 	font-style: italic;
+ 	
+
+ }
